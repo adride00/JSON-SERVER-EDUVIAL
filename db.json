@@ -1,102 +1,1308 @@
 {
-  "transactions": [
+  "contact": [
     {
-      "id": 1,
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "id": "71a3",
+      "name": "Adrian Campos",
+      "email": "adride@outlook.com",
+      "number": "12341234",
+      "message": "asd asda sdasdas d"
+    }
+  ],
+  "blog": [
+    {
+      "id": "8f126207-4a5f-41423423426f24f7",
+      "title": "¿Por qué es tan importante el mantenimiento  preventivo y correctivo de tu carro?",
+      "categories": ["Mantenimiento"],
+      "date": "2024-01-07",
+      "reading_time": 10,
+      "rating": 4.5,
+      "feature_img": "/assets/images/blog-card/preventive_maintenance.jpg",
+      "slug": "mantenimiento-preventivo",
+      "featured": false
     },
     {
-      "id": 2,
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "id": "8f126207-4a5f-41wfw3356y",
+      "title": "¿Como realizar un cambio de aceite a tu carro?",
+      "categories": ["Mantenimiento"],
+      "date": "2020-06-07",
+      "reading_time": 4,
+      "rating": 3.5,
+      "feature_img": "/assets/images/blog-card/vehicle-maintenance.jpeg",
+      "slug": "normas-transito-el-salvador",
+      "featured": false
     },
     {
-      "id": 3,
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "id": "8f126rttttfwee333",
+      "title": "Cómo Prepararse para el Examen de Conducir en El Salvador",
+      "categories": ["Consejos para Nuevos", "Educación Vial"],
+      "date": "2024-06-07",
+      "reading_time": 5,
+      "rating": 5,
+      "feature_img": "/assets/images/blog-card/test_preparation.png",
+      "slug": "preparacion-examen-conducir",
+      "featured": false
     },
     {
-      "id": 4,
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
+      "id": "8f126203423ff9ea026f24f7",
+      "title": "Conoce las Normas de Tránsito más Importantes en El Salvador",
+      "categories": ["Educación Vial"],
+      "date": "2024-06-10",
+      "reading_time": 5,
+      "rating": 4.5,
+      "feature_img": "/assets/images/blog-card/traffic_regulations.jpg",
+      "slug": "normas-transito-el-salvador",
+      "featured": true
     },
     {
-      "id": 5,
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
+      "id": "8f126207-4a5f-41133334ll026f24f7",
+      "title": "Cómo Revisar el Aceite de tu Vehículo",
+      "categories": ["Mantenimiento", "Educación Vial"],
+      "date": "2024-06-11",
+      "reading_time": 5,
+      "rating": 3.5,
+      "feature_img": "/assets/images/blog-card/oil-change.jpeg",
+      "slug": "normas-transito-el-salvador",
+      "featured": false
     },
     {
-      "id": 6,
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
+      "id": "8f126207-4a5f-411oooo7a026f24f7",
+      "title": "¿Por qué es tan importante el mantenimiento  preventivo y correctivo de tu carro?",
+      "categories": ["Mantenimiento"],
+      "date": "2024-05-29",
+      "reading_time": 10,
+      "rating": 4.5,
+      "feature_img": "/assets/images/blog-card/cicling-mode.webp",
+      "slug": "normas-transito-el-salvador",
+      "featured": false
     },
     {
-      "id": 7,
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
+      "id": "8f556026f24f7",
+      "title": "¿Por qué es tan importante el mantenimiento  preventivo y correctivo de tu carro?",
+      "categories": ["Educacion Vial"],
+      "date": "2024-01-20",
+      "reading_time": 6,
+      "rating": 5,
+      "feature_img": "/assets/images/blog-card/big-city.webp",
+      "slug": "normas-transito-el-salvador",
+      "featured": false
     },
     {
-      "id": 8,
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
+      "id": "8f126207-4a5f-411a-44rr-99ea026yt5f24f7",
+      "title": "Errores Comunes de los Nuevos Conductores y Cómo Evitarlos",
+      "categories": ["Consejos para Nuevos"],
+      "date": "2024-01-20",
+      "reading_time": 12,
+      "rating": 4.8,
+      "feature_img": "/assets/images/blog-card/controlling-addresses.webp",
+      "slug": "normas-transito-el-salvador",
+      "featured": false
     },
     {
-      "id": 9,
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "id": "8f123620337-4a5f-4444a026f24f7",
+      "title": "Impacto del Uso del Teléfono Móvil en la Conducción",
+      "categories": ["Educacion Vial"],
+      "date": "2024-04-23",
+      "reading_time": 8,
+      "rating": 3,
+      "feature_img": "/assets/images/blog-card/driving-with-phone.webp",
+      "slug": "normas-transito-el-salvador",
+      "featured": false
     },
     {
-      "id": 10,
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
+      "id": "8f126207jj77u26f24f7",
+      "title": "Importancia de los Neumáticos Adecuados y Cómo Elegirlos",
+      "categories": ["Mantenimiento"],
+      "date": "2024-06-02",
+      "reading_time": 4,
+      "rating": 4,
+      "feature_img": "/assets/images/blog-card/wheel-vehicle.webp",
+      "slug": "normas-transito-el-salvador",
+      "featured": false
     },
     {
-      "id": 11,
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
+      "id": "8f126207-4u773333ea026f24f7",
+      "title": "Consejos para la Conducción Segura en Diferentes Condiciones Climáticas",
+      "categories": ["Mantenimiento"],
+      "date": "2023-04-21",
+      "reading_time": 9,
+      "rating": 5,
+      "feature_img": "/assets/images/blog-card/driving-rain.webp",
+      "slug": "normas-transito-el-salvador",
+      "featured": false
     },
     {
-      "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
+      "id": "8f126207-4a5fkjkk8826f24f7",
+      "title": "Consejos para la Conducción Segura en Diferentes Condiciones Climáticas",
+      "categories": ["Mantenimiento"],
+      "date": "2023-04-04",
+      "reading_time": 4,
+      "rating": 4.5,
+      "feature_img": "/assets/images/blog-card/driving-rain.webp",
+      "slug": "normas-transito-el-salvador",
+      "featured": false
+    }
+  ],
+  "blog-content": [
+    {
+      "id": "8f126207-4a5f-411a-ad96-99ea026f24f7",
+      "title": "Consejos para la Conducción Segura en Diferentes Condiciones Climáticas",
+      "author": "Francisco Alfaro",
+      "categories": ["Educación Vial"],
+      "date": "2024-06-07",
+      "reading_time": 3,
+      "rating": 4.5,
+      "feature_img": "https://picsum.photos/1920/1080",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Conducir en El Salvador puede ser un reto, especialmente durante la temporada de lluvias. Las carreteras mojadas y las condiciones climáticas adversas pueden aumentar significativamente el riesgo de accidentes. Sin embargo, con la preparación adecuada y algunos consejos de conducción segura, puedes minimizar estos riesgos y asegurarte de llegar a tu destino sin contratiempos. Aquí te presentamos algunos consejos esenciales para manejar en diferentes condiciones climáticas, con un enfoque particular en la temporada de lluvias."
+        },
+        {
+          "type": "section",
+          "title": "Conducción en Temporada de Lluvias",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Revisa Tus Neumáticos: Asegúrate de que tus neumáticos tengan suficiente profundidad de banda de rodadura y estén correctamente inflados. Un buen agarre es crucial para evitar derrapes en carreteras mojadas.",
+                "Mantén Una Distancia Segura: Aumenta la distancia entre tu vehículo y el de adelante. Las carreteras mojadas pueden aumentar la distancia de frenado, por lo que es importante tener más espacio para reaccionar.",
+                "Reduce la Velocidad: Conduce a una velocidad adecuada para las condiciones. La velocidad excesiva en carreteras mojadas puede provocar hidroplaneo, donde los neumáticos pierden contacto con la carretera.",
+                "Usa los Faros: Enciende los faros incluso durante el día para mejorar tu visibilidad y hacerte más visible para otros conductores.",
+                "Evita Frenar Bruscamente: Frena con suavidad para evitar que las ruedas se bloqueen y pierdas el control del vehículo. Si tu vehículo tiene frenos ABS, utiliza el sistema adecuadamente.",
+                "Ten Cuidado con los Charcos: Evita los charcos grandes, ya que pueden ocultar baches y otros peligros. Además, atravesar un charco a alta velocidad puede causar hidroplaneo.",
+                "Limpia Tus Parabrisas y Luces: Asegúrate de que tus limpiaparabrisas funcionen correctamente y que las luces delanteras y traseras estén limpias y funcionando bien."
+              ]
+            }
+          ],
+          "img_url": "https://picsum.photos/1920/1080"
+        },
+        {
+          "tipo": "section",
+          "titulo": "Conducción en Condiciones de Niebla",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Usa las Luces Antiniebla: Si tu vehículo está equipado con luces antiniebla, úsalas para mejorar la visibilidad. No uses las luces altas, ya que pueden reflejarse en la niebla y reducir aún más tu visibilidad.",
+                "Mantén la Distancia: Aumenta la distancia con respecto al vehículo de adelante. La visibilidad reducida requiere más tiempo de reacción.",
+                "Conduce a Baja Velocidad: Reduce la velocidad y está preparado para detenerse rápidamente si es necesario."
+              ]
+            }
+          ],
+          "img_url": "https://picsum.photos/1920/1080"
+        },
+        {
+          "type": "section",
+          "title": "Conducción en Condiciones Secas y Soleadas",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Protección Solar: Usa gafas de sol para evitar el deslumbramiento y asegúrate de que el parasol del vehículo esté en buen estado.",
+                "Mantén Hidratado: Las altas temperaturas pueden provocar fatiga, así que mantente hidratado y toma descansos regulares en viajes largos.",
+                "Cuidado con el Asfalto Caliente: El asfalto caliente puede ser resbaladizo, especialmente si hay aceite o gasolina en la superficie. Conduce con precaución y mantén una distancia segura."
+              ]
+            }
+          ],
+          "img_url": "https://picsum.photos/1920/1080"
+        },
+        {
+          "type": "paragraph",
+          "text": "La conducción segura en El Salvador requiere una adaptación constante a las condiciones climáticas cambiantes, especialmente durante la temporada de lluvias. Siguiendo estos consejos y manteniendo tu vehículo en buen estado, puedes reducir los riesgos y asegurarte de llegar a tu destino de manera segura. Recuerda que la precaución y la preparación son tus mejores aliados al volante."
+        }
+      ]
+    }
+  ],
+  "agency": [
+    {
+      "id": "7a36ef79-d46c-4413-a473-59b00b13565a",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "10%"
+      },
+      "school": {
+        "name": "ACES",
+        "image": "/assets/images/schoolcard/schoolaces-image.png",
+        "logo": "/assets/images/schoolcard/logo-aces.png",
+        "rating": 4.5,
+        "reviews": 115,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Moto",
+          "priceFrom": 59,
+          "category": "complete"
+        },
+        {
+          "type": "Automóvil",
+          "priceFrom": 100,
+          "category": "complete"
+        },
+        {
+          "type": "Pick Up",
+          "priceFrom": 130,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 200,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "5:00 a.m. - 7:00 p.m.",
+        "saturdays": "8:00 a.m. - 4:00 p.m.",
+        "sundays": "8:00 a.m. - 12:00 p.m."
+      },
+      "locations": [
+        {
+          "address": "Colonia Enrique Andrade, Calle Antiguo Cuscatlán N° 52, San Salvador",
+          "latitude": 13.69294,
+          "longitude": -89.21819
+        }
+      ]
     },
     {
-      "date": "2022-07-09",
-      "description": "Office lunch",
-      "category": "Food",
-      "amount": "2000",
-      "id": 13
+      "id": "c2e8ef12-1234-5678-9101-abcdef123456",
+      "has_discount": true,
+      "promotions": false,
+      "school": {
+        "name": "APROSSI",
+        "image": "/assets/images/schoolcard/schoolaprossi-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-aprossi.png",
+        "rating": 3.2,
+        "reviews": 150,
+        "type": "school",
+        "examiner": false,
+        "description": "Escuela de manejo y examinadora. ️San Salvador, Santa Tecla, San Miguel, Lourdes, Zacatecoluca, Sonsonate, Ahuachapan, Santa Ana y Usulután."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
     },
     {
-      "date": "2022-07-09",
-      "description": "Office lunch Wednesday",
-      "category": "Food",
-      "amount": "3000",
-      "id": 14
+      "id": "b3f4ef78-1234-5678-9101-abcdef654321",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "15%"
+      },
+      "school": {
+        "name": "Escuela de Manejo y Examinadora TEYM - Atlantic Seguridad",
+        "image": "/assets/images/schoolcard/schoolteym-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-teym.png",
+        "rating": 4.9,
+        "reviews": 150,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "7a36ef79-d46c-4413-a473-59b00b13565a",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "10%"
+      },
+      "school": {
+        "name": "ACES",
+        "image": "/assets/images/schoolcard/schoolaces-image.png",
+        "logo": "/assets/images/schoolcard/logo-aces.png",
+        "rating": 4.5,
+        "reviews": 115,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Moto",
+          "priceFrom": 59.0,
+          "category": "complete"
+        },
+        {
+          "type": "Automóvil",
+          "priceFrom": 100.0,
+          "category": "complete"
+        },
+        {
+          "type": "Pick Up",
+          "priceFrom": 130.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 200.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "5:00 a.m. - 7:00 p.m.",
+        "saturdays": "8:00 a.m. - 4:00 p.m.",
+        "sundays": "8:00 a.m. - 12:00 p.m."
+      },
+      "locations": [
+        {
+          "address": "Colonia Enrique Andrade, Calle Antiguo Cuscatlán N° 52, San Salvador",
+          "latitude": 13.69294,
+          "longitude": -89.21819
+        }
+      ]
+    },
+    {
+      "id": "c2e8ef12-1234-5678-9101-abcdef123456",
+      "has_discount": true,
+      "promotions": false,
+      "school": {
+        "name": "APROSSI",
+        "image": "/assets/images/schoolcard/schoolaprossi-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-aprossi.png",
+        "rating": 3.2,
+        "reviews": 150,
+        "type": "school",
+        "examiner": false,
+        "description": "Escuela de manejo y examinadora. ️San Salvador, Santa Tecla, San Miguel, Lourdes, Zacatecoluca, Sonsonate, Ahuachapan, Santa Ana y Usulután."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "b3f4ef78-1234-5678-9101-abcdefggg54321",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "15%"
+      },
+      "school": {
+        "name": "Escuela de Manejo y Examinadora TEYM - Atlantic Seguridad",
+        "image": "/assets/images/schoolcard/schoolteym-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-teym.png",
+        "rating": 4.9,
+        "reviews": 150,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "c2e8ef12-1234-5678-9101-abcdef123456",
+      "has_discount": true,
+      "promotions": false,
+      "school": {
+        "name": "APROSSI",
+        "image": "/assets/images/schoolcard/schoolaprossi-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-aprossi.png",
+        "rating": 3.2,
+        "reviews": 150,
+        "type": "school",
+        "examiner": false,
+        "description": "Escuela de manejo y examinadora. ️San Salvador, Santa Tecla, San Miguel, Lourdes, Zacatecoluca, Sonsonate, Ahuachapan, Santa Ana y Usulután."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "c2e8ef12-1234-5678-9101-abcdef123456",
+      "has_discount": true,
+      "promotions": false,
+      "school": {
+        "name": "APROSSI",
+        "image": "/assets/images/schoolcard/schoolaprossi-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-aprossi.png",
+        "rating": 3.2,
+        "reviews": 150,
+        "type": "school",
+        "examiner": false,
+        "description": "Escuela de manejo y examinadora. ️San Salvador, Santa Tecla, San Miguel, Lourdes, Zacatecoluca, Sonsonate, Ahuachapan, Santa Ana y Usulután."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "c2e8ef12-1234-5678-9101-abcdef123456",
+      "has_discount": true,
+      "promotions": false,
+      "school": {
+        "name": "APROSSI",
+        "image": "/assets/images/schoolcard/schoolaprossi-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-aprossi.png",
+        "rating": 3.2,
+        "reviews": 150,
+        "type": "school",
+        "examiner": false,
+        "description": "Escuela de manejo y examinadora. ️San Salvador, Santa Tecla, San Miguel, Lourdes, Zacatecoluca, Sonsonate, Ahuachapan, Santa Ana y Usulután."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "c2e8ef12-1234-5678-9101-abcdef123456",
+      "has_discount": true,
+      "promotions": false,
+      "school": {
+        "name": "APROSSI",
+        "image": "/assets/images/schoolcard/schoolaprossi-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-aprossi.png",
+        "rating": 3.2,
+        "reviews": 150,
+        "type": "school",
+        "examiner": false,
+        "description": "Escuela de manejo y examinadora. ️San Salvador, Santa Tecla, San Miguel, Lourdes, Zacatecoluca, Sonsonate, Ahuachapan, Santa Ana y Usulután."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "b3f4ef78-1234-5678-9101-gggggyyyyw",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "15%"
+      },
+      "school": {
+        "name": "Escuela de Manejo y Examinadora TEYM - Atlantic Seguridad",
+        "image": "/assets/images/schoolcard/schoolteym-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-teym.png",
+        "rating": 4.9,
+        "reviews": 150,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "b3f4ef78-1234-5678-9101-kkkkffxxx",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "15%"
+      },
+      "school": {
+        "name": "Escuela de Manejo y Examinadora TEYM - Atlantic Seguridad",
+        "image": "/assets/images/schoolcard/schoolteym-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-teym.png",
+        "rating": 4.9,
+        "reviews": 150,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "b3f4ef78-1234-5678-9101-zzzzmzzgw",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "15%"
+      },
+      "school": {
+        "name": "Escuela de Manejo y Examinadora TEYM - Atlantic Seguridad",
+        "image": "/assets/images/schoolcard/schoolteym-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-teym.png",
+        "rating": 4.9,
+        "reviews": 150,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "b3f4ef78-1234-5678-9101-asdwaz",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "15%"
+      },
+      "school": {
+        "name": "Escuela de Manejo y Examinadora TEYM - Atlantic Seguridad",
+        "image": "/assets/images/schoolcard/schoolteym-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-teym.png",
+        "rating": 4.9,
+        "reviews": 150,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "b3f4ef78-1234-5678-9101-hhhssttee",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "15%"
+      },
+      "school": {
+        "name": "Escuela de Manejo y Examinadora TEYM - Atlantic Seguridad",
+        "image": "/assets/images/schoolcard/schoolteym-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-teym.png",
+        "rating": 4.9,
+        "reviews": 150,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "b3f4ef78-1234-5678-9101-lldu6zegn",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "15%"
+      },
+      "school": {
+        "name": "Escuela de Manejo y Examinadora TEYM - Atlantic Seguridad",
+        "image": "/assets/images/schoolcard/schoolteym-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-teym.png",
+        "rating": 4.9,
+        "reviews": 150,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "b3f4ef78-1234-5678-9101-ldncghx7u",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "15%"
+      },
+      "school": {
+        "name": "Escuela de Manejo y Examinadora TEYM - Atlantic Seguridad",
+        "image": "/assets/images/schoolcard/schoolteym-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-teym.png",
+        "rating": 4.9,
+        "reviews": 150,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110.0,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210.0,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    },
+    {
+      "id": "b3f4ef78-1234-zzsdd5-9101-abcdef654321",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "15%"
+      },
+      "school": {
+        "name": "Escuela de Manejo y Examinadora TEYM - Atlantic Seguridad",
+        "image": "/assets/images/schoolcard/schoolteym-image.jpeg",
+        "logo": "/assets/images/schoolcard/logo-teym.png",
+        "rating": 4.9,
+        "reviews": 150,
+        "type": "school",
+        "examiner": true,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador se ha ubicado como la mas exitosa institución de servicio a la comunidad automovilística."
+      },
+      "courses": [
+        {
+          "type": "Automóvil",
+          "priceFrom": 110,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 210,
+          "category": "complete"
+        }
+      ],
+      "schedules": {
+        "weekdays": "6:00 a.m. - 8:00 p.m.",
+        "saturdays": "8:00 a.m. - 5:00 p.m.",
+        "sundays": "Closed"
+      },
+      "locations": [
+        {
+          "address": "Avenida Principal 123, Ciudad XYZ",
+          "latitude": 13.70234,
+          "longitude": -89.22345
+        }
+      ]
+    }
+  ],
+  "agency-details": [
+    {
+      "id": "7a36ef79-d46c-4413-a473-59b00b13565a",
+      "has_discount": true,
+      "promotions": {
+        "general_discount": "10%"
+      },
+      "school": {
+        "logo": "https://picsum.photos/1920/1080",
+        "name": "ACES",
+        "rating": 5,
+        "reviews": 115,
+        "description": "La historia se escribe con hechos y por los hechos acontecidos a lo largo de los 51 años de existencia del Automóvil Club de El Salvador. Se ha consolidado como la más instituida institución de servicio a la comunidad automovilística."
+      },
+      "vehicule_catalog": [
+        {
+          "photo": {
+            "url": "https://picsum.photos/1920/1080"
+          },
+          "gear": "Automatico",
+          "year": 2024,
+          "make": "Nissan",
+          "model": "Nissan Frointer XE NP 3"
+        }
+      ],
+      "contact": {
+        "website": "http://www.aces-sv.com",
+        "phone": "2264 7373",
+        "whatsapp": "7490 4659"
+      },
+      "courses": [
+        {
+          "type": "Moto",
+          "priceFrom": 59,
+          "category": "complete"
+        },
+        {
+          "type": "Automóvil",
+          "priceFrom": 100,
+          "category": "complete"
+        },
+        {
+          "type": "Pick Up",
+          "priceFrom": 130,
+          "category": "complete"
+        },
+        {
+          "type": "Camión",
+          "priceFrom": 200,
+          "category": "complete"
+        },
+        {
+          "type": "Refuerzo Moto",
+          "priceFrom": 34,
+          "category": "complete"
+        },
+        {
+          "type": "Refuerzo Automóvil",
+          "priceFrom": 80,
+          "category": "reinforcement"
+        },
+        {
+          "type": "Refuerzo Pick up",
+          "priceFrom": 70,
+          "category": "reinforcement"
+        },
+        {
+          "type": "Licencia Motocicleta",
+          "priceFrom": 17,
+          "category": "license"
+        },
+        {
+          "type": "Licencia Particular",
+          "priceFrom": 17,
+          "category": "license"
+        },
+        {
+          "type": "Licencia Juvenil",
+          "priceFrom": 17,
+          "category": "license"
+        },
+        {
+          "type": "Licencia Ligera",
+          "priceFrom": 17,
+          "category": "license"
+        }
+      ],
+      "schedules": {
+        "weekdays": "5:00 a.m. - 7:00 p.m.",
+        "saturdays": "8:00 a.m. - 4:00 p.m.",
+        "sundays": "8:00 a.m. - 12:00 p.m."
+      },
+      "locations": [
+        {
+          "address": "Colonia Enrique Andrade, Calle Antiguo Cuscatlán N° 52, Antiguo Cuscatlán, La Libertad",
+          "latitude": 13.69294,
+          "longitude": -89.21819
+        }
+      ],
+      "photo_gallery": [
+        {
+          "url": "https://picsum.photos/1920/1080"
+        },
+        {
+          "url": "https://picsum.photos/1920/1080"
+        },
+        {
+          "url": "https://picsum.photos/1920/1080"
+        },
+        {
+          "url": "https://picsum.photos/1920/1080"
+        }
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "user": {
+        "id": "1",
+        "profile_img": "/assets/images/testimonials/student-user.png",
+        "name": "Luis Fernández",
+        "role": "Estudiante",
+        "roleIcon": "/assets/images/testimonials/role-icon.svg"
+      },
+      "review": {
+        "id": "101",
+        "heading": "El personal es muy amable y profesional.",
+        "description": "La plataforma en línea me permitió acceder a toda la información que necesitaba y los exámenes de práctica en línea fueron de gran ayuda."
+      },
+      "id": "2658"
+    },
+    {
+      "user": {
+        "id": "2",
+        "profile_img": "/assets/images/testimonials/student-user.png",
+        "name": "María González",
+        "role": "Estudiante",
+        "roleIcon": "/assets/images/testimonials/role-icon.svg"
+      },
+      "review": {
+        "id": "102",
+        "heading": "Excelente plataforma educativa.",
+        "description": "Los recursos disponibles son muy completos y el soporte técnico siempre está dispuesto a ayudar"
+      },
+      "id": "3109"
+    },
+    {
+      "user": {
+        "id": "3",
+        "profile_img": "/assets/images/testimonials/student-user.png",
+        "name": "Rodrigo Hernandez",
+        "role": "Estudiante",
+        "roleIcon": "/assets/images/testimonials/role-icon.svg"
+      },
+      "review": {
+        "id": "103",
+        "heading": "Muy útil y fácil de usar.",
+        "description": "La plataforma es intuitiva y las herramientas disponibles han mejorado la eficiencia de nuestra agencia"
+      },
+      "id": "c401"
+    },
+    {
+      "user": {
+        "id": "4",
+        "profile_img": "/assets/images/testimonials/student-user.png",
+        "name": "Joshua Portillo",
+        "role": "Estudiante",
+        "roleIcon": "/assets/images/testimonials/role-icon.svg"
+      },
+      "review": {
+        "id": "104",
+        "heading": "Muy útil y didcatica.",
+        "description": "La plataforma es facil de usar,  ofrecen varios programas para escojer ,Tambien hay  descuentos y promociones para estudiantes. "
+      },
+      "id": "1dc9"
+    },
+    {
+      "user": {
+        "id": "5",
+        "profile_img": "/assets/images/testimonials/student-user.png",
+        "name": "Maria Izabel",
+        "role": "Emprendedora",
+        "roleIcon": "/assets/images/testimonials/role-icon.svg"
+      },
+      "review": {
+        "id": "105",
+        "heading": "Excelente soporte en la plataforma.",
+        "description": "siempre estan atentos para solucionar algun problema en la plataforma "
+      },
+      "id": "c992"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Cómo puedo encontrar la mejor escuela de manejo para mis necesidades?",
+      "answer": "Utiliza nuestra función de búsqueda avanzada para filtrar escuelas por ubicación, tipo y servicios ofrecidos. Lee las reseñas de otros estudiantes y encuentra la escuela que mejor se adapte a tus preferencias y objetivos.",
+      "id": "85f4"
+    },
+    {
+      "question": "¿Cuáles son los requisitos para registrarme en un curso de manejo?",
+      "answer": "Para registrarte en un curso de manejo, necesitas tener al menos 18 años, una identificación válida y completar el formulario de inscripción en línea.",
+      "id": "87be"
+    },
+    {
+      "question": "¿Puedo cambiar mi instructor o la ubicación de mis clases después de registrarme?",
+      "answer": "Sí, puedes cambiar tu instructor o la ubicación de tus clases contactando al soporte técnico de la plataforma o a tu agencia de manejo.",
+      "id": "9ae4"
+    },
+    {
+      "question": "¿Cómo puedo acceder a los recursos educativos proporcionados por la plataforma?",
+      "answer": "Puedes acceder a los recursos educativos iniciando sesión en tu cuenta y navegando a la sección de recursos educativos en el panel de control.",
+      "id": "8dbc"
+    },
+    {
+      "question": "¿Ofrecen programas de descuentos o promociones para estudiantes?",
+      "answer": "Sí, ofrecemos varios programas de descuentos y promociones para estudiantes. Visita nuestra página de promociones o contacta a soporte para más detalles.",
+      "id": "131a"
+    },
+    {
+      "question": "¿Qué debo hacer si tengo problemas técnicos con la plataforma durante mis clases virtuales?",
+      "answer": "Si tienes problemas técnicos, puedes contactar a nuestro equipo de soporte técnico a través del chat en vivo, correo electrónico o teléfono. Estamos disponibles para ayudarte 24/7.",
+      "id": "4117"
+    }
+  ],
+  "departments": [
+    {
+      "value": "ahuachapan",
+      "label": "Ahuachapán",
+      "id": "2323"
+    },
+    {
+      "value": "santa-ana",
+      "label": "Santa Ana",
+      "id": "7174"
+    },
+    {
+      "value": "sonsonate",
+      "label": "Sonsonate",
+      "id": "6ea9"
+    },
+    {
+      "value": "chalatenango",
+      "label": "Chalatenango",
+      "id": "6783"
+    },
+    {
+      "value": "la-libertad",
+      "label": "La Libertad",
+      "id": "d9d1"
+    },
+    {
+      "value": "san-salvador",
+      "label": "San Salvador",
+      "id": "502d"
+    },
+    {
+      "value": "cuscatlan",
+      "label": "Cuscatlán",
+      "id": "34f4"
+    },
+    {
+      "value": "la-paz",
+      "label": "La Paz",
+      "id": "9de4"
+    },
+    {
+      "value": "cabanas",
+      "label": "Cabañas",
+      "id": "386a"
+    },
+    {
+      "value": "san-vicente",
+      "label": "San Vicente",
+      "id": "2745"
+    },
+    {
+      "value": "usulutan",
+      "label": "Usulután",
+      "id": "b34d"
+    },
+    {
+      "value": "san-miguel",
+      "label": "San Miguel",
+      "id": "9b37"
+    },
+    {
+      "value": "morazan",
+      "label": "Morazán",
+      "id": "0414"
+    },
+    {
+      "value": "la-union",
+      "label": "La Unión",
+      "id": "a57d"
+    }
+  ],
+  "course-type": [
+    {
+      "value": "car",
+      "label": "Automovil",
+      "id": "473a"
+    },
+    {
+      "value": "motorcycle",
+      "label": "Motocicleta",
+      "id": "d650"
+    },
+    {
+      "value": "pick-up",
+      "label": "Pick Up",
+      "id": "062c"
+    },
+    {
+      "value": "truck",
+      "label": "Camión",
+      "id": "e44c"
+    }
+  ],
+  "steps": [
+    {
+      "id": "1",
+      "step": "01",
+      "heading": "Explora escuelas y examinadoras de confianza en todo el país",
+      "text": "Descubre profesionales comprometidos con tu seguridad. Seleccionamos cuidadosamente escuelas de manejo y examinadoras verificadas."
+    },
+    {
+      "id": "2",
+      "step": "02",
+      "heading": "Reserva y programa con facilidad",
+      "text": "Elige el horario y la ubicación que mejor se adapten a tu agenda. Reserva tus lecciones con solo unos clics y programa tu aprendizaje de manera conveniente."
+    },
+    {
+      "id": "3",
+      "step": "03",
+      "heading": "Aprende de Instructores Expertos",
+      "text": "Colaboramos con instructores calificados y apasionados por la enseñanza. Obtén conocimientos prácticos de profesionales comprometidos con tu progreso."
+    },
+    {
+      "id": "4",
+      "step": "04",
+      "heading": "Accede a Recursos Educativos Exclusivos",
+      "text": "Complementa tus lecciones prácticas con recursos educativos que fortalezcan tus conocimientos."
     }
   ]
 }
